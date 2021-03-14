@@ -25,8 +25,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
+\assets\images\Portfolio Homework
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+
 
 
 ## Grading Requirements
