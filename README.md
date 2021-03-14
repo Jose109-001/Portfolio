@@ -1,3 +1,4 @@
+![Uploading Portfolio Homework.gif…]()
 # Portfolio
 
 ## Acceptance Criteria
