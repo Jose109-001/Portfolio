@@ -1,4 +1,5 @@
-![Uploading Portfolio Homework.gif…]()
+![Portfolio Homework](https://user-images.githubusercontent.com/77666204/111058881-95c49e00-84e5-11eb-8b0c-1238865fb68a.gif)
+
 # Portfolio
 
 ## Acceptance Criteria
