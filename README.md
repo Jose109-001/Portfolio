@@ -2,6 +2,9 @@
 
 # Portfolio
 
+Web Portfolio to showcase projects and skills in better manner.
+
+
 ## Acceptance Criteria
 
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
