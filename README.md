@@ -26,8 +26,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
-\assets\images\Portfolio Homework
 
+https://github.com/Jose109-001/Portfolio/blob/main/assets/images/Portfolio%20Homework.gif
 
 
 
