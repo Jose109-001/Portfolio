@@ -1,82 +1,132 @@
-![Portfolio Homework](https://user-images.githubusercontent.com/77666204/111058881-95c49e00-84e5-11eb-8b0c-1238865fb68a.gif)
+# 16 Project 2: Professional Materials
 
-# Portfolio
+Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
-Web Portfolio to showcase projects and skills in better manner.
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
 
+## Homework Requirements
 
-## Acceptance Criteria
+* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+* Updated resume
+
+* Updated LinkedIn profile
 
 
-## Mock-Up
+## Grading
 
-The following animation shows the web application's appearance and functionality:
+| Requirement      | Weight |
+| ---------------- | ------ |
+| Portfolio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
 
- https://jose109-001.github.io/Portfolio/
+
+## Instructions
+
+1. [Updated Portfolio](#updated-portfolio)
+
+2. [Updated GitHub Profile](#updated-github-profile)
+
+3. [Updated Resume](#updated-resume)
+
+4. [Updated LinkedIn](#updated-linkedin)
+
+## Updated Portfolio
+
+💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+
+Your updated portfolio should:
+
+1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
+
+2. Have links to your GitHub profile and LinkedIn profile
+
+3. Have a link to a downloadable PDF of your resume
+
+4. Display at least 3 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
+
+	* Project title
+
+	* Link to the deployed version
+
+	* Link to the GitHub repository
+
+	* Screenshot of the deployed application
+
+5. Have a polished, mobile-responsive user interface.
 
 
+### Design
 
-## Grading Requirements
+Unfortunately, this is where it gets a little bit subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
 
-This homework is graded based on the following criteria: 
+* Mobile-first design
 
-### Technical Acceptance Criteria: 40%
+* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
 
-* Satisfies all of the above acceptance criteria.
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
-### Deployment: 32%
 
-* Application deployed at live URL.
+## Updated GitHub Profile 
 
-* Application loads with no errors.
+Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 
-* Application GitHub URL submitted.
+Your GitHub profile must contain at least the following items:
 
-* GitHub repository contains application code.
+1. Profile picture or avatar
 
-### Application Quality: 15%
+	* A photo or an avatar other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
 
-* Application resembles the mock-up functionality provided in the homework instructions.
+2. Biography
 
-### Repository Quality: 13%
+3. Email address. If you don't want to share your personal email or phone number, use a developer email.
 
-* Repository has a unique name.
+4. Link to your deployed portfolio
 
-* Repository follows best practices for file structure and naming conventions.
+5. At least 2 pinned repositories:
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+	* Navigate to [GitHub](https://github.com/) and go to your profile.
 
-* Repository contains multiple descriptive commit messages.
+	* Click "Customize your pins"
 
-* Repository contains quality readme with description, screenshot, link to deployed application.
+	* Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 
-## Review
+6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
-You are required to submit BOTH of the following for review:
+7. README files. Every pinned project should contain a README file with:
 
-* The URL of the deployed application.
+	* Title of app
 
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+	* Live link to deployed app
+
+	* List of technologies used
+
+	* 1-2 sentences explaining what the app is
+
+	* 2-3 Screenshots / gifs of the app
+
+	* License (usually MIT)
+
+	* Contact information for you and any collaborators
+
+8. Commit history. Every pinned repository should have at least 20 commits.
+
+## Updated Resume 
+
+💁 Need help building a resume? Check out the [Career Services milestone resources](https://mycareerspot.org/resume).
+
+Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
+
+## Updated LinkedIn 
+
+💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-
-
